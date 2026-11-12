@@ -1,0 +1,10 @@
+@"
+*.exe
+*.out
+*.o
+users.txt
+*.tmp
+*.log
+Thumbs.db
+Desktop.ini
+"@ | Set-Content .gitignore
